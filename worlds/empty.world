@@ -9,5 +9,8 @@
     <include>
       <uri>model://ground_plane</uri>
     </include>
+	<include>
+		<uri>model://ambulance/meshes/ambulance.obj</uri>
+	</include>
   </world>
 </sdf>

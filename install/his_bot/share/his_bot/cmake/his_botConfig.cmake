@@ -1,0 +1,1 @@
+/home/user/dev_ws_b/src/his_bot/build/his_bot/ament_cmake_core/his_botConfig.cmake
