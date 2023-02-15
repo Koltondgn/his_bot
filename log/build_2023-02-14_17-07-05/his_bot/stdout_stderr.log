@@ -1,0 +1,8 @@
+[0mCMake Error: The current CMakeCache.txt directory /home/user/dev_wsb/src/his_bot/build/his_bot/CMakeCache.txt is different than the directory /home/user/dev_ws_b/src/his_bot/build/his_bot where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt[0m
+-- Install configuration: ""
+[31mCMake Error at cmake_install.cmake:46 (include):
+  include could not find requested file:
+
+    /home/user/dev_ws_b/src/his_bot/build/his_bot/ament_cmake_symlink_install/ament_cmake_symlink_install.cmake
+
+[0m

@@ -1,0 +1,17 @@
+
+
+
+Comanding Velcoity through teminal 
+~$ ros2 topic pub --once /cmd_vel geometry_msgs/msg/Twist "{linear: {x: 0.1, y: 0.0, z: 0.0}, angular: {x: 0.0, y: 0.0, z: 0}}"
+	-It works its just that if values are too high thre will be no response
+	
+node /diff-dirce subscriberss
+nav-msgs/msg?odometry 
+-estimates positioan and velocity in free space 
+	-pose relative to fixed frame, twitst relative to child frame 
+	
+-I think covariance is uncertaintiy
+
+
+
+ros2 topic info --verbose /topic (ror subscivers and pulsiher info)
